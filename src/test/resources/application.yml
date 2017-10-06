@@ -1,0 +1,8 @@
+selenium:
+  driver.path: tools/chromedriver.exe
+  screenshot.path: target/screenshots/
+  timeout: 2000
+
+sportsbook:
+  host: google.com
+  port: 80
